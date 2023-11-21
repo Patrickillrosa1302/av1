@@ -1,0 +1,10 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+    margin-right: 20px;
+    padding-right: 50px;
+}
+section{
+    border: 1px solid black;
+}
